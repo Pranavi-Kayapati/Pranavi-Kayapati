@@ -1,5 +1,10 @@
 # 💫 About Me:
-💫 About Me:<br>Hi 👋, I'm Pranavi Kayapati<br>A self-motivated, hard-working, and ambitious Web Developer with proficiency in React, java script, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React.<br><br>📫 How to reach me pranavikaayapati01gmail.com<br><br>📄 Know about my experiences <br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+💫 About Me:<br>Hi 👋, I'm Pranavi Kayapati<br>Results-driven Full Stack Web Developer with expertise in the
+MERN stack. Completed a rigorous 1200+ hours web
+development course at Masai school. Proficient in HTML, CSS,
+JavaScript, React, Node.js, and MongoDB. Detail-oriented
+problem solver committed to delivering innovative web
+solutions.A self-motivated, hard-working, and ambitious Web Developer with proficiency in React, java script, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React.<br><br>📫 How to reach me pranavikaayapati01gmail.com<br><br>📄 Know about my experiences <br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
 ## 🌐 Socials:
@@ -14,8 +19,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranavi-Kayapati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi-Kayapati&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranavi-Kayapati&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranavi-Kayapati&limit=5&theme=dark&combine_all_yearly_contributions=true)
