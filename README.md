@@ -4,7 +4,7 @@ MERN stack. Completed a rigorous 1200+ hours web
 development course at Masai school. Proficient in HTML, CSS,
 JavaScript, React, Node.js, and MongoDB. Detail-oriented
 problem solver committed to delivering innovative web
-solutions.A self-motivated, hard-working, and ambitious Web Developer with proficiency in React, java script, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React.<br><br>📫 How to reach me pranavikaayapati01gmail.com<br><br> 🪪 Portfolio: https://pranavi-kayapati.github.io/ <br><br>📄 Know about my experiences <br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+solutions.A self-motivated, hard-working, and ambitious Web Developer with proficiency in React, java script, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about HTML, CSS, JavaScript, React.<br><br>📫 How to reach me pranavikayapati01@gmail.com<br><br> 🪪 Portfolio: https://pranavi-kayapati.github.io/
 
 
 ## 🌐 Socials:
